@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(224,116,4);
+    color:aliceblue;
+}
+.tabelnya {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10%;
+}
+.sub {
+    text-align: center;
+    font-size: 25px;
+}
+td {
+    padding: 20px;
+    text-align: center;
+}
+.rates {
+    font-size: 20px;
+}
+.tabeldata {
+    font-size: 20px;
+}
